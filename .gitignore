@@ -1,0 +1,6 @@
+# SQLite (NO versionar)
+*.db
+
+# Jupyter
+.ipynb_checkpoints/
+__pycache__/
